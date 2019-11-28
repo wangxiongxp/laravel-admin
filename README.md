@@ -1,1 +1,1 @@
-# laravel-admin12345
+# laravel-admin
